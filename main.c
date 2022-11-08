@@ -9,6 +9,6 @@ int main() {
 	printf("Input a second number\n");
 	scanf("%d", &y);
 	
-	printf("%d + %d é igual a %d", x, y, x + y);
+	printf("%d + %d is equall to %d", x, y, x + y);
 	return 0;
 }
