@@ -13,5 +13,7 @@ int main() {
 	printf("%d - %d is equall to %d\n", x, y, x - y);
 	printf("%d * %d is equall to %d\n", x, y, x * y);
 	printf("%d / %d is equall to %d", x, y, x / y);
+	
+	printf("Passada do teu mano....flw");
 	return 0;	
 }
