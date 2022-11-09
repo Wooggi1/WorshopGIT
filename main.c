@@ -10,5 +10,8 @@ int main() {
 	scanf("%d", &y);
 	
 	printf("%d + %d is equall to %d", x, y, x + y);
-	return 0;
+	printf("%d - %d is equall to %d", x, y, x - y);
+	printf("%d * %d is equall to %d", x, y, x * y);
+	printf("%d / %d is equall to %d", x, y, x / y);
+	return 0;	
 }
